@@ -5,6 +5,7 @@ This software is a command-line version of the classic Hangman game, written in 
 The purpose of writing this software was to demonstrate the use of various Kotlin language features, including variables (mutable and immutable), expressions, conditionals, loops, functions, and classes. It also showcases how to handle user input and output in a command-line application.
 
 ## Software Demo Video
+https://youtu.be/BvtW34S3vjE
 
 # Development Environment
 The software was developed using IntelliJ IDEA, a popular IDE for Kotlin development. The Kotlin plugin for IntelliJ IDEA, which provides first-class support for Kotlin, was also used.
